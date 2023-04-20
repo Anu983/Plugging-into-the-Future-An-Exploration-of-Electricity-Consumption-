@@ -5,4 +5,4 @@ Dashboard Public Link - https://public.tableau.com/views/dashboard_1681838478823
 
 Story Public Link - https://public.tableau.com/views/story_16818315970170/StoryonElectricityConsumptioninInia?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Video Demonstration Link - C:\Users\HP\OneDrive\Videos
+Video Demonstration Link -  
